@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jose Pepe",
+        "apellido": "Argento",
+        "historial_eventos":
+         "Evento en Club Union Huaytiquina - Festival Patrio"
+    },
+    {
+        "id": 2,
+        "nombre": "Monica",
+        "apellido": "Argento",
+        "historial_eventos":
+         "Evento en Centro de Conveciones Salta - Rayando El Sol Tour"
+    },
+    {
+        "id": 3,
+        "nombre": "Alfio Coqui",
+        "apellido": "Argento",
+        "historial_eventos":
+         "Evento en Teatro Provincial de Salta - El Buki 2023 - World Tour"
+    },
+    {
+        "id": 4,
+        "nombre": "Paola",
+        "apellido": "Argento",
+        "historial_eventos":
+         "Evento en Casa de la Cultura de Salta - Homenaje al ultimo rey"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nombre": "Club Union Huaytiquina",
+        "direccion": "Pje. Yapeyu 310, Salta",
+        "coordenadas": [
+            -24.908130371682038, 
+            -65.64688169151162
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Teatro Provincial de Salta",
+        "direccion": "Zuviria 70, Salta",
+        "coordenadas": [
+            -24.78860454503634, 
+            -65.40953047417509
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Casa de la Cultura de Salta",
+        "direccion": "Caseros 460, Salta",
+        "coordenadas": [
+            -24.78963851316605, 
+            -65.40887380421306
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Centro de Conveciones Salta",
+        "direccion": "Av. Paraguay 2900, Salta",
+        "coordenadas": [
+            -24.82905124713856, 
+            -65.43447009070401
+        ]
+    }
+
+]
